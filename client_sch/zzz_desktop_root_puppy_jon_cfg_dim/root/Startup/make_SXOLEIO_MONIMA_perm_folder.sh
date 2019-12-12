@@ -1,0 +1,1 @@
+mkdir -p /mnt/home/downloads_linux/SXOLEIO_MONIMA/

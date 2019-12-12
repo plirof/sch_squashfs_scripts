@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SRWare Iron61 HOMEdrive-user Puppy,PepperFlash
+Comment=SRWare Iron-Browser 61.32-FLASH -/mnt/home 
+Exec=/usr/bin/iron_flash_puppy_pepper_home.sh
+Icon=iron_product_logo
+Terminal=false
+Type=Application
+Categories=Network;
+StartupNotify=false
+MimeType=text/html;text/xml;application/xhtml_xml;image/webp;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;

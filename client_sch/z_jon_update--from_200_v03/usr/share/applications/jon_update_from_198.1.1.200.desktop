@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=jon_update_from_198.1.1.200.desktop
+Comment=gets updates from server machine ip .200
+CommentExec=/root/Startup/jon_update.sh
+Exec=/root/Startup/jon_update.sh
+Icon=iron_product_logo
+Terminal=true
+Type=Application
+Categories=Modules;System;
+StartupNotify=false

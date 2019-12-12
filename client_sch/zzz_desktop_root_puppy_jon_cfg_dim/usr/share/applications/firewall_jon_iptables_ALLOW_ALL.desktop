@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=firewall_jon iptables allow_all
+Exec=firewall_allow_all_again.sh
+Comment=iptable ALLOW all again /restore from WAN block allow LAN rules
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Network;
+StartupNotify=true

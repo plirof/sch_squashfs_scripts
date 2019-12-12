@@ -1,0 +1,4 @@
+start epoptes-client & replaces shutdown with the stretchdog shutdown
+
+# For SLOW PCs
+# NOTE : If you are on a SLOW PC you can delete the /root/Startup/epoptes-client-user-second_proc_startup.sh

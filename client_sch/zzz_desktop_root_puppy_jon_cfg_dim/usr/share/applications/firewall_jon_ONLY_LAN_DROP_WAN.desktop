@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=firewall_jon iptables ONLY LAN DROP WAN
+Exec=firewall_allow_only_LAN_drop_WAN.sh
+Comment=iptable ALLOW LAN drop ALL else
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Network;
+StartupNotify=true

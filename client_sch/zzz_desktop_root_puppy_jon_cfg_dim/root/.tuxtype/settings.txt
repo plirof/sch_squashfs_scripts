@@ -1,0 +1,5 @@
+lang=greek
+mus_volume=5
+sfx_volume=5
+menu_music=1
+fullscreen=1

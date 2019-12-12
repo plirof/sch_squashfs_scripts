@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SFSdrop
+Comment=
+Exec=loadsfs %f
+Icon=application-x-squashfs
+Path=
+Terminal=false
+StartupNotify=false

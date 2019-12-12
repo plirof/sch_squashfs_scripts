@@ -1,0 +1,1 @@
+tuxpaint --lang greek --fullscreen native
