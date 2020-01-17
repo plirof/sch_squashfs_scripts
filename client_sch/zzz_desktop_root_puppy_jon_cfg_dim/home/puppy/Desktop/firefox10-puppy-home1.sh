@@ -1,1 +1,0 @@
-/usr/bin/firefox10-puppy-home1.sh

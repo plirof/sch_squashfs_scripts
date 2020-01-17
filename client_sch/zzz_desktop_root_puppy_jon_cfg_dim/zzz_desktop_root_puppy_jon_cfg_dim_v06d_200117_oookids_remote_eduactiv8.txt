@@ -3,9 +3,12 @@
 
 ##
 
-##
+## zzz_desktop_root_puppy_jon_cfg_dim_v06d_200117git.squashfs
+- SXOLEIO folder POINTS to /home/puppy/SXOLEIO (for both root & puppy users)
+- inside /root/ type : ln -s /home/puppy/SXOLEIO SXOLEIO
 
-## zzz_desktop_root_puppy_jon_cfg_dim_v06c_191211_oookids_remote_eduactiv8
+## zzz_desktop_root_puppy_jon_cfg_dim_v06c_191211git_oookids_remote_eduactiv8
+
 ### GIT version
 #### eduactiv8_greek_config_v01b_added_user_puppy_cfg.squashfs
 #### tuxpaint-jon-conf01b.squashfs
