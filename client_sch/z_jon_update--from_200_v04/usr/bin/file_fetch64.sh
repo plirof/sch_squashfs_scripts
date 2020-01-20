@@ -1,16 +1,22 @@
 # file_fetch64.sh v01 -200120
 #
 # Changes:
+# v01b -200120 - check size of $1 before executing
 # v01 -200120 -  initial saves to schdog64clnt and stretchdog-debdive64
 #wget -c "http://192.168.1.52/uploads/"$PROGR
 LIVEPATH=/mnt/home/schdog64clnt/live/
 MYURL=http://192.168.1.200/uploads/
-
+LEN=$(expr length $1)
 
 file_fetch() {
 #echo Hello $1
 #PROGR="askiseis_office_htdocs_desktop_v02b_190119.squashfs"
-wget -c $MYURL$1
+if [ $LEN -gt 5 ]; then
+	echo "Param size was : "$LEN;
+	wget -c $MYURL$1
+else
+    echo "Too small - on None parameter";
+fi
 #mv -n $1 "/mnt/home/stretchdog-debdive32/live/"$1
 return 5
 }
