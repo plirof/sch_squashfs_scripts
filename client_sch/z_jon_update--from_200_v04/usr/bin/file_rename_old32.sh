@@ -15,8 +15,8 @@ return 5
 
 
 cd $LIVEPATH
-file_raname_old $1
+file_rename_old $1
 
 
 cd /mnt/home/schdog32/live/
-file_raname_old $1
+file_rename_old $1
