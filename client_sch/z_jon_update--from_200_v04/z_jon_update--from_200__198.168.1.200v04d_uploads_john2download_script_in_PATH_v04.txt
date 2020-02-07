@@ -19,3 +19,16 @@ iptables -t nat -A OUTPUT -d 192.168.1.200 -j DNAT --to-destination 192.168.1.17
 ```
 
  #you can create a snapshot of the current ruleset with iptables-save > /path/to/file and restore it later with iptables-restore < /path/to/file
+#clear all IPtables rules:
+```bash
+# clear all IPtables rules -in case of error (https://www.adminsehow.com/2009/08/how-to-clear-all-iptables-rules/)
+iptables -F
+iptables -X
+iptables -t nat -F
+iptables -t nat -X
+iptables -t mangle -F
+iptables -t mangle -X
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+```
