@@ -1,0 +1,175 @@
+# Changes :
+
+
+##
+
+## zzz_desktop_root_puppy_jon_cfg_dim_v06d_200117git.squashfs
+- SXOLEIO folder POINTS to /home/puppy/SXOLEIO (for both root & puppy users)
+- inside /root/ type : ln -s /home/puppy/SXOLEIO SXOLEIO
+
+## zzz_desktop_root_puppy_jon_cfg_dim_v06c_191211git_oookids_remote_eduactiv8
+
+### GIT version
+#### eduactiv8_greek_config_v01b_added_user_puppy_cfg.squashfs
+#### tuxpaint-jon-conf01b.squashfs
+#### greek_keyboard.squashfs
+#### z05_timezone_greek03e2.squashfs
+
+## zzz_desktop_root_puppy_jon_cfg_dim_v06b_191201_oookids_remote
+
+
+
+
+
+
+# oookids_remote.sh libreoffice_remote.sh
+
+example :
+```bash
+oookids_remote.sh "http://my.file.url/my_file.doc"
+```
+will fetch a file from a url and open it with oookids
+
+```bash
+libreoffice_remote.sh "http://my.file.url/my_file.doc"
+```
+will fetch a file from a url and open it with libreoffice
+
+
+# File list ls -R result :
+
+
+```bash
+
+home
+opt
+root
+usr
+zzz_desktop_root_puppy_jon_cfg_dim.txt
+
+./home:
+make_files_folder_777.sh
+puppy
+
+./home/puppy:
+Desktop
+my-documents
+SXOLEIO
+ΕΓΓΡΑΦΑ_ΤΑΞΗ
+
+./home/puppy/Desktop:
+askiseis_office
+firefox10-puppy-home1.sh
+libreoffice4.2-calc.desktop
+libreoffice4.2-impress.desktop
+libreoffice4.2-writer.desktop
+scratch.desktop
+settings
+SXOLEIO
+tuxmath.desktop
+tuxpaint-with-config.desktop
+tuxtype.desktop
+
+./home/puppy/Desktop/settings:
+conkytoggle.desktop
+Create Savefile.desktop
+DebianDog-Installer.desktop
+Dog Control Center.desktop
+DogRadio.desktop
+firefox.desktop
+gnome-mplayer.desktop
+PicDrop.desktop
+Puppy Linux Discussion Forum __ View topic - Light-Debian-Core-Live-CD-Wheezy + Porteus-Wheezy.desktop
+Remaster-porteus-wheezy.desktop
+SFSdrop.desktop
+synaptic.desktop
+
+./home/puppy/SXOLEIO:
+SXOLEIO_MONIMA
+ΕΔΩ_ΑΠΟΘΗΚΕΥΕΤΕ_ΤΑ_ΑΡΧΕΙΑ_ΣΑΣ
+
+./opt:
+doublecmd
+lampp
+
+./opt/doublecmd:
+doublecmd.xml
+history.xml
+pixmaps.cache
+session.ini
+
+./opt/lampp:
+htdocs
+
+./opt/lampp/htdocs:
+SXOLEIO
+
+./root:
+Desktop
+my-documents
+Startup
+SXOLEIO
+ΕΓΓΡΑΦΑ_ΤΑΞΗ
+
+./root/Desktop:
+askiseis_office
+doc-libreoffice4.2-writer.desktop
+ppt-libreoffice4.2-impress.desktop
+scratch.desktop
+settings
+SXOLEIO
+tuxmath.desktop
+tuxpaint-with-config.desktop
+tuxtype.desktop
+xls-libreoffice4.2-calc.desktop
+
+./root/Desktop/settings:
+conkytoggle.desktop
+Create Savefile.desktop
+DebianDog-Installer.desktop
+Dog Control Center.desktop
+DogRadio.desktop
+firefox10-puppy-home1.sh
+firefox.desktop
+gnome-mplayer.desktop
+PicDrop.desktop
+Puppy Linux Discussion Forum __ View topic - Light-Debian-Core-Live-CD-Wheezy + Porteus-Wheezy.desktop
+Remaster-porteus-wheezy.desktop
+SFSdrop.desktop
+synaptic.desktop
+
+./root/Startup:
+make_SXOLEIO_MONIMA_perm_folder.sh
+
+./root/SXOLEIO:
+SXOLEIO_MONIMA
+ΕΔΩ_ΑΠΟΘΗΚΕΥΕΤΕ_ΤΑ_ΑΡΧΕΙΑ_ΣΑΣ
+
+./usr:
+bin
+local
+share
+
+./usr/bin:
+
+./usr/local:
+bin
+
+./usr/local/bin:
+firewall_allow_all_again.sh
+firewall_allow_only_LAN_drop_WAN.sh
+ironstartincognito.sh
+libreoffice_remote.sh
+oookids_remote.sh
+tuxpaint-with-conf.sh
+
+./usr/share:
+applications
+
+./usr/share/applications:
+firewall_jon_iptables_ALLOW_ALL.desktop
+firewall_jon_ONLY_LAN_DROP_WAN.desktop
+tuxpaint-with-config.desktop
+
+```
+
