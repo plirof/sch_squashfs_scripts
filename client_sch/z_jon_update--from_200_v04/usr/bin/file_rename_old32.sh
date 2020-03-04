@@ -5,6 +5,7 @@
 LIVEPATH=/mnt/home/stretchdog-debdive32/live/
 MYURL=http://192.168.1.200/uploads/
 
+echo "example: file_rename_old32.sh my_file32bit.squashfs"
 
 file_rename_old() {
 mv -n $1 $1"_OLD"

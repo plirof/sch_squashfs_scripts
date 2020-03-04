@@ -8,6 +8,8 @@ LIVEPATH=/mnt/home/stretchdog-debdive32/live/
 MYURL=http://192.168.1.200/uploads/
 LEN=$(expr length $1)
 
+echo "example : file_fetch32.sh MY_FILE32BIT.squashfs"
+
 file_fetch() {
 #echo Hello $1
 #PROGR="askiseis_office_htdocs_desktop_v02b_190119.squashfs"

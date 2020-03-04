@@ -10,6 +10,7 @@
 LIVEPATH=/mnt/home/schdog64clnt/live/
 MYURL=http://192.168.1.200/uploads/
 
+echo "example: file_rename_old64.sh my_file64bit.squashfs"
 
 file_rename_old() {
 mv -n $1 $1"_OLD"
