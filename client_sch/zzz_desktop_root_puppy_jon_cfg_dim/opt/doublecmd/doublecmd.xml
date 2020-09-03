@@ -317,7 +317,7 @@
       <KeepTerminalOpen>False</KeepTerminalOpen>
     </Viewer>
     <Editor Enabled="True">
-      <Path>subl</Path>
+      <Path>leafpad</Path>
       <Parameters/>
       <RunInTerminal>False</RunInTerminal>
       <KeepTerminalOpen>False</KeepTerminalOpen>
@@ -534,14 +534,14 @@
     <IgnoreListFile>%DC_CONFIG_PATH%/ignorelist.txt</IgnoreListFile>
   </IgnoreList>
   <DirectoryHotList>
-    <HotDir Name="DOWNLOADS_LINUX" Path="/mnt/sda1/downloads_linux/"/>
-    <HotDir Name="sda1_downloads_linux" Path="/mnt/sda1/downloads_linux/"/>
+    <HotDir Name="DOWNLOADS_LINUX" Path="/mnt/home/downloads_linux/"/>
+    <HotDir Name="home_downloads_linux" Path="/mnt/home/downloads_linux/"/>
     <HotDir Name="MNT_RAM_changes" Path="/mnt/live/memory/changes/"/>
     <HotDir Name="apt_downloaded_packages_folder" Path="/mnt/live/memory/changes/var/cache/apt/archives/"/>
     <HotDir Name="apt2sfs_debiandog64/" Path="/mnt/home/sfs_pet_/apt2sfs_debiandog64/"/>
     <HotDir Name="live" Path="/mnt/home/puppy_stretchdog64v2/live/"/>
     <HotDir Name="Puppy_Downloads" Path="/home/puppy/Downloads/"/>
-    <HotDir Name="puppy_debiandog64-SDA1" Path="/mnt/sda1/puppy_debiandog64/"/>
+    <HotDir Name="puppy_debiandog64-home" Path="/mnt/home/puppy_debiandog64/"/>
     <HotDir Name="root" Path="/root/"/>
     <HotDir Name="htdocs" Path="/opt/lampp/htdocs/"/>
     <HotDir Name="MENU_usr_share_applications" Path="/usr/share/applications/"/>
