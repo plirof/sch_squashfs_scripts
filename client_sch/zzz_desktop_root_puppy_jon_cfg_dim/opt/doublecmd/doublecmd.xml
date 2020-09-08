@@ -277,11 +277,11 @@
   </Language>
   <Behaviours>
     <GoToRoot>False</GoToRoot>
-    <RunInTerminalStayOpenCmd>roxterm</RunInTerminalStayOpenCmd>
+    <RunInTerminalStayOpenCmd>xterm</RunInTerminalStayOpenCmd>
     <RunInTerminalStayOpenParams>-e sh -c '{command}; echo -n Press ENTER to exit... ; read a'</RunInTerminalStayOpenParams>
-    <RunInTerminalCloseCmd>roxterm</RunInTerminalCloseCmd>
+    <RunInTerminalCloseCmd>xterm</RunInTerminalCloseCmd>
     <RunInTerminalCloseParams>-e sh -c {command}</RunInTerminalCloseParams>
-    <JustRunTerminal>roxterm</JustRunTerminal>
+    <JustRunTerminal>xterm</JustRunTerminal>
     <JustRunTermParams/>
     <OnlyOneAppInstance>False</OnlyOneAppInstance>
     <LynxLike>True</LynxLike>
