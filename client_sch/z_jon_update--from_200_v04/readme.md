@@ -1,8 +1,14 @@
+# Changes
+* 200908 - wget retries now
+
 # This is hard coded to download from a server running in 192.168.1.200 
 This runs at startup this :
 ```bash
 cd /tmp
-wget http://192.168.1.200/uploads/john_downloads.sh
+while true;do 
+#wget http://192.168.1.200/uploads/john_downloads.sh
+wget -T 15 http://192.168.1.200/uploads/john_downloads.sh && break
+done
 chmod a+x john_downloads.sh
 . john_downloads.sh
 
@@ -11,7 +17,8 @@ So, the file http://192.168.1.200/uploads/john_downloads.sh MUST exists
 
 If different you must change it
 
-
+# In case of different IPs (200908)
+Use zzz__CLIENT_for_other_ip (client pc) AND zzz__SERVER_for_other_ip (server pc)
 ___________
 
 # iptables (change 192.168.1.200 to other ip/url)
