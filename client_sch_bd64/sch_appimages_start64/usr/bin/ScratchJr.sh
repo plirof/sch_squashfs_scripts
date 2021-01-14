@@ -1,0 +1,1 @@
+/appimages/ScratchJr_1.3.2_amd64.deb.sv_GR2.AppImage

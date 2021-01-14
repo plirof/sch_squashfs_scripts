@@ -1,0 +1,1 @@
+/appimages/tuxpaint64bit-.glibc2.22-x86_64.AppImage --fullscreen native

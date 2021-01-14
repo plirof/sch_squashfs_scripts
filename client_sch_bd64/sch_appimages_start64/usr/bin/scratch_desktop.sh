@@ -1,0 +1,1 @@
+/appimages/Scratch_Desktop-.glibc2.16-x86_64.AppImage

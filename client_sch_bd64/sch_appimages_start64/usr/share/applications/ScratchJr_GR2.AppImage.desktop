@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE ScratchJr_1.3.2_amd64.deb.sv_GR2.AppImage
+Comment=
+#Exec=ScratchJr.sh
+Exec=scratch_desktop.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/ScratchJr_1.3.2_amd64.deb.sv_GR2.AppImage.xpm
+Categories=Game;Education;Art;
+StartupWMClass=Tuxpaint
+StartupNotify=true

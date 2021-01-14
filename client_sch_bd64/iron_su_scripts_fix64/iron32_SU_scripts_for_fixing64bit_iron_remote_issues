@@ -1,0 +1,25 @@
+iron_su_scripts_fix64
+
+Changes:
+- v001c - 210113 - Initial version start scripts to make iron 64bit BusterDog act as the 32bit StratchDog 
+
+
+
+
+
+=============================
+This is an older Iron Browsers (ver 61.3200 ) to run adobe flash without the warnings of the newer browsers.
+It has build-in flash here : --ppapi-flash-path=/usr/share/iron_flash/extensions/libpepflashplayer.so  ver 29.0.0.171
+
+
+Package: iron64
+Version: 61.0.3200-0
+Section: web
+Priority: extra
+Architecture: amd64
+Depends: 
+Installed-Size: 248000
+Maintainer: SRWare <webmaster@srware.net>
+Homepage: www.srware.net/iron
+Description: SRWare Iron-Browser 64-Bit
+

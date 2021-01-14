@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE Tuxpaint root --fullscreen native
+Comment=
+Exec=tuxpaint.sh
+#Exec=sh -c "/appimages/tuxpaint64bit-.glibc2.22-x86_64.AppImage --fullscreen native"
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/tuxpaint64bit-.glibc2.22-x86_64.AppImage.xpm
+Categories=Game;Education;Art;
+StartupWMClass=Tuxpaint
+StartupNotify=true

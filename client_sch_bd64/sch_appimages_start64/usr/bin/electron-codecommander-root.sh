@@ -1,0 +1,1 @@
+/appimages/electron-codecommander-root.sh-portable-gr1.appimage

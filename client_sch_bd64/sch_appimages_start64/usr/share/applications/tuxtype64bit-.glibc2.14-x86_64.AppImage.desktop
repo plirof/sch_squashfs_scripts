@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE Tuxtype root
+Comment=
+#Exec=sh -c "/appimages/tuxtype64bit-.glibc2.14-x86_64.AppImage"
+Exec=tuxtype.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/tuxtype64bit-.glibc2.14-x86_64.AppImage.xpm
+Categories=Game;Education;Art;
+StartupWMClass=tuxtype64bit-.glibc2.14-x86_64.AppImage
+StartupNotify=true

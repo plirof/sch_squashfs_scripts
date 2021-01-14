@@ -1,0 +1,1 @@
+/appimages/tuxmath64bit-.glibc2.14-x86_64.AppImage

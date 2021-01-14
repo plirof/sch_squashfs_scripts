@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE Tuxmath root
+Comment=
+#Exec=sh -c "/appimages/tuxmath64bit-.glibc2.14-x86_64.AppImage"
+Exec=tuxmath.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/tuxmath64bit-.glibc2.14-x86_64.AppImage.xpm
+Categories=Game;Education;
+StartupWMClass=tuxmath64bit-.glibc2.14-x86_64.AppImage
+StartupNotify=true

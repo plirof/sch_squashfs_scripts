@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE electron-codecommander-root.sh
+Comment=
+#Exec=electron-codecommander-root.sh
+Exec=electron-codecommander-root.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/Scratch_Desktop-.glibc2.16-x86_64.AppImage.xpm
+Categories=Game;Education;Art;
+StartupWMClass=Tuxpaint
+StartupNotify=true

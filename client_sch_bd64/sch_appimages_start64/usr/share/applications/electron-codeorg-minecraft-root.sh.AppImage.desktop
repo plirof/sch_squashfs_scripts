@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE electron-codeorg-minecraft-root.sh
+Comment=
+#Exec=sh -c "/appimages/Scratch_Desktop-.glibc2.16-x86_64.AppImage"
+Exec=electron-codeorg-minecraft-root.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/Scratch_Desktop-.glibc2.16-x86_64.AppImage.xpm
+Categories=Game;Education;Art;
+StartupWMClass=Tuxpaint
+StartupNotify=true
