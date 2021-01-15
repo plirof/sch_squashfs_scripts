@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE Pixelitor-4.2.3_2019-12-11java_v01.AppImage
+Comment=
+#Exec=electron-codecommander-root.sh
+Exec=Pixelitor.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/Pixelitor-4.2.3_2019-12-11java_v01.AppImage.xpm
+Categories=Graphics;Education;Art;
+StartupWMClass=Pixelitor
+StartupNotify=true

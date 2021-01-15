@@ -1,0 +1,1 @@
+/appimages/Pixelitor-4.2.3_2019-12-11java_v01.AppImage

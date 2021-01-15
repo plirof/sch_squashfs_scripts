@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE MyPaint-v2.0.0-beta.0-2019-12-20_12.11.AppImage
+Comment=
+#Exec=electron-codecommander-root.sh
+Exec=MyPaint.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/MyPaint-v2.0.0-beta.0-2019-12-20_12.11.AppImage.xpm
+Categories=Game;Education;Art;
+StartupWMClass=Tuxpaint
+StartupNotify=true

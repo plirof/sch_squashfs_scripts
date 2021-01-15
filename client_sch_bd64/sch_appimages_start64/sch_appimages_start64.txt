@@ -4,7 +4,7 @@ ToDo:
 - Add link to actual appimage folder for /appimages
 
 Changes:
-
+- v01b - 210114 - Added more appimages desktop +scripts
 - v01 - 210113 - Initial appimages desktop +scripts
 
 

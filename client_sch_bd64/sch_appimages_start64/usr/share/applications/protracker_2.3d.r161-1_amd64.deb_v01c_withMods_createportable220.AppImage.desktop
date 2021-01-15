@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE protracker_2.3d.r161-1_amd64.deb_v01c_withMods_createportable220.AppImage
+Comment=
+#Exec=electron-codecommander-root.sh
+Exec=protracker.AppImage.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/VPaint-1.7-x86_64__animation.AppImage.xpm
+Categories=Graphics;Music;Game;Games;Education;Art;
+StartupWMClass=protracker
+StartupNotify=true

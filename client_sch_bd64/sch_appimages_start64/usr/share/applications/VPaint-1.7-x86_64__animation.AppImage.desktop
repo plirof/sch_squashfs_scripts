@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=APPIMAGE VPaint-1.7-x86_64__animation.AppImage
+Comment=
+#Exec=electron-codecommander-root.sh
+Exec=VPaint.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/VPaint-1.7-x86_64__animation.AppImage.xpm
+Categories=Graphics;Education;Art;
+StartupWMClass=VPaint
+StartupNotify=true

@@ -1,0 +1,1 @@
+/appimages/VPaint-1.7-x86_64__animation.AppImage
