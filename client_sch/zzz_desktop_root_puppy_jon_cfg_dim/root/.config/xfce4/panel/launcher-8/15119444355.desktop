@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Chromium Web Browser  (/home/puppy user&folder)
+Comment=Chromium Web Browser
+CommentExec=su - puppy -c "/usr/share/iron/chrome-wrapper  --user-data-dir=/home/puppy/chromium_puppy_user_data_dir"
+Exec=/usr/bin/chromium_puppy.sh
+Icon=chromium
+Terminal=false
+Type=Application
+Categories=Network;
+StartupNotify=false
+X-XFCE-Source=file:///usr/share/applications/chromium_puppy.desktop

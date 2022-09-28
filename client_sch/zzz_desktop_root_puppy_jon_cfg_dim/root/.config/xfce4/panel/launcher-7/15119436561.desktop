@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=ROXTerm
+GenericName=Terminal
+GenericName[el]=Τερματικό
+Comment=Use the command line
+Comment[el]=Χρήση γραμμής εντολών
+Keywords=shell;prompt;command;commandline;
+Keywords[el]=κέλυφος;προτροπή;εντολή;γραμμή εντολών;
+TryExec=roxterm
+Exec=roxterm
+Icon=roxterm
+Type=Application
+Categories=GTK;Utility;TerminalEmulator;System;
+X-XFCE-Source=file:///usr/share/applications/roxterm.desktop

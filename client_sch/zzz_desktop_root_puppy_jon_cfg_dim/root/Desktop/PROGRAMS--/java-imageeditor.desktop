@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ImageEditor2.1.359.jar JAVA
+Exec=/usr/bin/java-imageeditor.sh
+Path=/opt/java_imageeditor/
+StartupNotify=true
+Categories=Graphics;
+Keywords=GUI;regex;regexp;regular expressions;

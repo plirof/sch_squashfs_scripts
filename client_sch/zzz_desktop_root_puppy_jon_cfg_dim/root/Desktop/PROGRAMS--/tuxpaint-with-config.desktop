@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Tux Paint (Greek)
+Name[el]=Tux Paint
+
+Type=Application
+Exec=/usr/local/bin/tuxpaint-with-conf.sh
+Icon=tuxpaint
+Terminal=false
+Categories=Education;Art;Graphics;games;
+GenericName=Drawing program
+GenericName[el]=Πρόγραμμα ζωγραφικής
+Comment=A drawing program for children.
+Comment[el]=Ένα πρόγραμμα ζωγραφικής για παιδιά.

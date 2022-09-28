@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=electron-codecommander-root.sh-portable-gr1.appimage
+Exec=/appimages/education/electron-codecommander-root.sh-portable-gr1.appimage
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=
+Categories=Network;Education;Games;
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=firefox
+StartupNotify=true

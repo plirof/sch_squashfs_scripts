@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=arcadeflex_v0.56.1 emulator java
+GenericName=arcadeflex MAME emulator java
+Type=Application
+Exec=/opt/arcadeflex_java/arcadeflex_run.sh
+path=/opt/arcadeflex_java/
+Categories=Game;Emulator;

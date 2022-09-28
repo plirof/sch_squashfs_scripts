@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=LilyTerm
+GenericName=Terminal
+Comment=A light and easy to use libvte based X Terminal Emulator
+TryExec=lilyterm
+Exec=lilyterm
+Icon=lilyterm
+Type=Application
+Terminal=false
+Categories=GTK;Utility;System;TerminalEmulator;
+X-XFCE-Source=file:///usr/share/applications/lilyterm.desktop

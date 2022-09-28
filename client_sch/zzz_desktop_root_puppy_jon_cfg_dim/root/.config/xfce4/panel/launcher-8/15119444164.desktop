@@ -1,0 +1,30 @@
+[Desktop Entry]
+Name=Pale Moon squashfs
+GenericName=Web Browser
+GenericName[el]=Περιηγητής διαδικτύου
+Comment=Browse the World Wide Web
+Comment[el]=Μπορείτε να περιηγηθείτε στο διαδίκτυο (Web)
+Exec=palemoon %u
+Terminal=false
+Type=Application
+Icon=palemoon
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;
+StartupNotify=true
+Actions=NewTab;NewWindow;NewPrivateWindow;
+X-XFCE-Source=file:///usr/share/applications/palemoon.desktop
+
+[Desktop Action NewTab]
+Name=Open new tab
+Name[el]=Άνοιγμα νέας καρτέλας
+Exec=palemoon -new-tab https://start.palemoon.org
+
+[Desktop Action NewWindow]
+Name=Open new window
+Name[el]=Άνοιγμα νέου παραθύρου
+Exec=palemoon -new-window
+
+[Desktop Action NewPrivateWindow]
+Name=New private window
+Name[el]=Νέο παράθυρο ιδιωτικής περιήγησης
+Exec=palemoon -private-window

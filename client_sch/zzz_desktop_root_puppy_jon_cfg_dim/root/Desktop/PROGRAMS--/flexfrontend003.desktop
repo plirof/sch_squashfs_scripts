@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=arcadeflex flexFRONTEND 003OLD java
+GenericName=flexfrontend OLDER v003
+Type=Application
+Exec=/opt/arcadeflex003_java/flexfrontend003_run.sh
+path=/opt/arcadeflex003_java/
+Categories=Game;Emulator;

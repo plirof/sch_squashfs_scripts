@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Iron changes.dat user Puppy,PepperFlash
+Comment=SRWare Iron-Browser 61.32-FLASH 
+Exec=/usr/bin/iron_flash_puppy_pepper.sh
+Icon=iron_product_logo
+Terminal=false
+Type=Application
+Categories=Network;
+StartupNotify=false
+MimeType=text/html;text/xml;application/xhtml_xml;image/webp;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;

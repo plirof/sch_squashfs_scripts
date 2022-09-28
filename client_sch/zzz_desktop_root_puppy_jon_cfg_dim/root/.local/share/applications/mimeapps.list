@@ -1,0 +1,24 @@
+[Default Applications]
+application/octet-stream=userapp-filemnt-Y31O8X.desktop
+application/pdf=evince.desktop;
+image/jpeg=XnView.desktop;
+image/gif=XnView.desktop;
+application/msword=libreoffice6.0-writer.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice6.0-writer.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice6.0-calc.desktop;gnumeric.desktop;
+application/vnd.ms-excel=gnumeric.desktop;libreoffice6.0-calc.desktop;
+video/mp4=gnome-mplayer.desktop;
+video/flv=gnome-mplayer.desktop;
+
+[Added Associations]
+application/octet-stream=userapp-filemnt-Y31O8X.desktop;leafpad.desktop;exo-file-manager.desktop;
+application/pdf=evince.desktop;
+image/jpeg=XnView.desktop;
+image/gif=XnView.desktop;
+application/msword=libreoffice6.0-writer.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice6.0-writer.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice6.0-calc.desktop;gnumeric.desktop;
+application/vnd.ms-excel=gnumeric.desktop;libreoffice6.0-calc.desktop;
+text/csv=gnumeric.desktop;
+video/mp4=gnome-mplayer.desktop;
+video/flv=gnome-mplayer.desktop;

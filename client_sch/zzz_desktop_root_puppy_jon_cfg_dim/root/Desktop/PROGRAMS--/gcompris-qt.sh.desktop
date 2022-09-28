@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=gcompris-qt-0.96-Linux64bit
+Icon=
+Exec=/opt/gcompris-qt-0.96-Linux/bin/gcompris-qt.sh
+Path=/opt/gcompris-qt-0.96-Linux/bin/
+Categories=Games;Game;

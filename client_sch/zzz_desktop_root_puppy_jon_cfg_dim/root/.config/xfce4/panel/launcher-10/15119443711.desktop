@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Icon=/opt/doublecmd/doublecmd.png
+Name=doublecmd File Manager
+Comment=Browse the file system and manage the files
+Categories=System;FileTools;FileManager;Utility;
+Exec=/opt/doublecmd/doublecmd %U
+StartupNotify=true
+Terminal=false
+MimeType=inode/directory;
+X-XFCE-Source=file:///usr/share/applications/dblcommander.desktop

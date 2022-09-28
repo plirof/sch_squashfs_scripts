@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RoboMind 6 GR Java
+Exec=/opt/RoboMind6/robomind.sh
+Path=/opt/RoboMind6/
+Icon=/opt/RoboMind6/robo.icns
+StartupNotify=true
+Categories=Education;Games;Game;Development;Java;
